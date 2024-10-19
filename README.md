@@ -1,1 +1,1 @@
-# Logistic_egresion-
+Logistic regression is a supervised learning algorithm used for binary classification. It models the probability of a target variable belonging to a class by fitting data to a logistic function (sigmoid). The output is a probability between 0 and 1, with a threshold (e.g., 0.5) used to classify the result into two classes.
